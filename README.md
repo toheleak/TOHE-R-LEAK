@@ -1,5 +1,5 @@
 
-<h1 align="center">Town of Host Edited Rewritten Leaks</h1>
+<h1 align="center">Town of Host Re-Edited Leaks</h1>
 
 <br>
 
@@ -7,12 +7,12 @@
 
 <p align="right">
   
-> ### Regarding this mod
+> ### Regarding this repository. 
 >
-> This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are the property of Innersloth LLC.
+> I was a former mod of the TOHE-R Discord Server. Throughout my time there, I witnessed Loonie (Main Dev) treating his staff, and contributors badly. They take credit for their contributor's and Karpe's work, and I think that's just shitty. Not only that, but talking badly about other mods too, just because they don't like the people making those mods.
+>
+> Note: So, I've decided to publicise all of the TOHE-R Dev and Canary Builds. and, I will continue to do so as long as I have access to said channels. Thank you.
 <br>
-
-> Note: L 
 </p>
 <p align="center">
 </p>
@@ -21,11 +21,23 @@
 
 <br>
 
-**Credit to these mods and their developers for the code and help:**
+
+
+## Credit to these contributors, mods and their developers for the code and help:**
+**Credit to the people Who've contributed most to TOHE-R, since Loonie doesn't give them much credit.**
+> TommyXL: Most of the bugfixes, and new features/roles. <br>
+> SolarFlare: Some roles, hasn't contributed since Loonie forced them out of the server.<br>
+> Karped: Original Creator of TOHE. Loonie continues to claim the "TOHE" name as theirs.<br>
+> Full list can be found [here.](https://tohre.dev/AboutUs.html#contributor) Just note, the contributions may be incorrect.
+
+
 ### :star: [TOHE](https://github.com/KARPED1EM/TownOfHostEdited) :
 > 
 > - Our repo is forked from TOHE
 ### :star: [TOH](https://github.com/tukasa0001/TownOfHost) :
+
+
+
 > 
 > - Our repo is based initially on TOH
 > 
