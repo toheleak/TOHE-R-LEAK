@@ -24,7 +24,7 @@
 
 
 ## Credit to these contributors, mods and their developers for the code and help:**
-**Credit to the people Who've contributed most to TOHE-R, since Loonie doesn't give them much credit.**
+**Credit to the people Who've contributed most to TOHRE, since Loonie doesn't give them much credit.**
 > TommyXL: Most of the bugfixes, and new features/roles. <br>
 > SolarFlare: Some roles, hasn't contributed since Loonie forced them out of the server.<br>
 > Karped: Original Creator of TOHE. Loonie continues to claim the "TOHE" name as theirs.<br>
@@ -69,7 +69,7 @@
 > - Reference: Modify settings menu
 > 
 
-### :star: [TOH+](https://github.com/SkullCreeper/TownOfHostPlus)
+### :star: [TOH+](https://github.com/Loonie-Toons/TownOfHostPlus)
 >
 > - Provided roles: Shapeshifter, Engineer, Scientist, Marshall, Poisoner, Necroview, Sidekick
 > - Bait and Beartrap as add-ons
