@@ -1,5 +1,5 @@
 
-<h1 align="center">Town of Host Re-Edited</h1>
+<h1 align="center">Town of Host Re-Edited Leaks</h1>
 
 <br>
 
@@ -7,35 +7,37 @@
 
 <p align="right">
   
-> ### Regarding this mod
+> ### Regarding this repository. 
 >
-> This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are the property of Innersloth LLC.
+> I was a former mod of the TOHE-R Discord Server. Throughout my time there, I witnessed Loonie (Main Dev) treating his staff, and contributors badly. They take credit for their contributor's and Karpe's work, and I think that's just shitty. Not only that, but talking badly about other mods too, just because they don't like the people making those mods.
+>
+> Note: So, I've decided to publicise all of the TOHE-R Dev and Canary Builds. and, I will continue to do so as long as I have access to said channels. Thank you.
 <br>
-
-> Note: The website is still a Work In Progress, please bear with us - Moe 
 </p>
 <p align="center">
-
-<center>
-<a href="https://tohre.dev/" target="_blank"><img src="https://img.shields.io/badge/Website%20-%231DA1F2.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white&color=3aa675"/></a>
-<a href="https://discord.gg/hkk2p9ggv4" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a><br>
-<a href="https://github.com/Loonie-Toons/TownOfHost-ReEdited/releases/latest" target="_blank"><img src="https://img.shields.io/badge/Latest Version%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-<a href="https://patreon.com/TOHRE" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
-</center>
-
-
-
 </p>
 
 ---
 
 <br>
 
-**Credit to these mods and their developers for the code and help:**
+
+
+## Credit to these contributors, mods and their developers for the code and help:**
+**Credit to the people Who've contributed most to TOHRE, since Loonie doesn't give them much credit.**
+> TommyXL: Most of the bugfixes, and new features/roles. <br>
+> SolarFlare: Some roles, hasn't contributed since Loonie forced them out of the server.<br>
+> Karped: Original Creator of TOHE. Loonie continues to claim the "TOHE" name as theirs.<br>
+> Full list can be found [here.](https://tohre.dev/AboutUs.html#contributor) Just note, the contributions may be incorrect.
+
+
 ### :star: [TOHE](https://github.com/KARPED1EM/TownOfHostEdited) :
 > 
 > - Our repo is forked from TOHE
 ### :star: [TOH](https://github.com/tukasa0001/TownOfHost) :
+
+
+
 > 
 > - Our repo is based initially on TOH
 > 
@@ -67,7 +69,7 @@
 > - Reference: Modify settings menu
 > 
 
-### :star: [TOH+](https://github.com/SkullCreeper/TownOfHostPlus)
+### :star: [TOH+](https://github.com/Loonie-Toons/TownOfHostPlus)
 >
 > - Provided roles: Shapeshifter, Engineer, Scientist, Marshall, Poisoner, Necroview, Sidekick
 > - Bait and Beartrap as add-ons
