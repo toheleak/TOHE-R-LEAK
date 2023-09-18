@@ -12,6 +12,7 @@
 > I was a former mod of the TOHE-R Discord Server. Throughout my time there, I witnessed Loonie (Main Dev) treating his staff, and contributors badly. They take credit for their contributor's and Karpe's work, and I think that's just shitty. Not only that, but talking badly about other mods too, just because they don't like the people making those mods.
 >
 > Note: So, I've decided to publicise all of the TOHE-R Dev and Canary Builds. and, I will continue to do so as long as I have access to said channels. Thank you.
+> <br> [Canary Builds Here]  [Dev Builds Here]
 <br>
 </p>
 <p align="center">
@@ -23,8 +24,8 @@
 
 
 
-## Credit to these contributors, mods and their developers for the code and help:**
-**Credit to the people Who've contributed most to TOHRE, since Loonie doesn't give them much credit.**
+## Credit to these mods/developers for the code and help:
+**and Credit to the people Who've contributed most to TOHRE, since Loonie doesn't give them much credit.**
 > TommyXL: Most of the bugfixes, and new features/roles. <br>
 > SolarFlare: Some roles, hasn't contributed since Loonie forced them out of the server.<br>
 > Karped: Original Creator of TOHE. Loonie continues to claim the "TOHE" name as theirs.<br>
@@ -36,9 +37,6 @@
 > - Our repo is forked from TOHE
 ### :star: [TOH](https://github.com/tukasa0001/TownOfHost) :
 
-
-
-> 
 > - Our repo is based initially on TOH
 > 
 ### :star: [TOHY](https://github.com/Yumenopai/TownOfHost_Y) :
