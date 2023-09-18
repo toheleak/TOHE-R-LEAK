@@ -13,7 +13,7 @@
 >
 > Note: So, I've decided to publicise all of the TOHE-R Dev and Canary Builds. and, I will continue to do so as long as I have access to said channels (Currently looking for a workaround.), Thank you.
 >
-> <br> [Canary Builds Here]  [Dev Builds Here]
+> <br> [Canary Builds Here]  [Dev Builds Here] **Download links coming soon.**
 <br>
 </p>
 <p align="center">
