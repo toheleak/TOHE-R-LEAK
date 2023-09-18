@@ -9,6 +9,7 @@ using TOHE.Modules;
 using TOHE.Roles.AddOns.Crewmate;
 using TOHE.Roles.AddOns.Impostor;
 using TOHE.Roles.Crewmate;
+using TOHE.Roles.Double;
 using TOHE.Roles.Impostor;
 using TOHE.Roles.Neutral;
 using static TOHE.Translator;
@@ -74,6 +75,8 @@ enum CustomRPC
     SetCounterfeiterSellLimit,
     SetPursuerSellLimit,
     SetMedicalerProtectLimit,
+    SetMiniLimit,
+    SetMiniSellLimit,
     SetGangsterRecruitLimit,
     SetGhostPlayer,
     SetDarkHiderKillCount,
@@ -128,6 +131,7 @@ enum CustomRPC
     SyncCovenLeader,
     SyncNWitch,
     SyncShroud,
+    SyncMiniAge,
 }
 public enum Sounds
 {
@@ -618,6 +622,9 @@ internal class RPCHandlerPatch
                 break;
             case CustomRPC.SetPoliceLimlit:
                 ChiefOfPolice.ReceiveRPC(reader);
+                break;
+            case CustomRPC.SyncMiniAge:
+                Mini.ReceiveRPC(reader);
                 break;
         }
     }
@@ -1168,6 +1175,12 @@ internal static class RPC
                 break;
             case CustomRoles.ChiefOfPolice:
                 ChiefOfPolice.Add(targetId);
+                break;
+            case CustomRoles.NiceMini:
+                Mini.Add(targetId);
+                break;
+            case CustomRoles.EvilMini:
+                Mini.Add(targetId);
                 break;
         }
         HudManager.Instance.SetHudActive(true);
