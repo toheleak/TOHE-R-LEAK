@@ -9,9 +9,9 @@
   
 > ### Regarding this repository. 
 >
-> I was a former mod of the TOHE-R Discord Server. Throughout my time there, I witnessed Loonie (Main Dev) treating his staff, and contributors badly. They take credit for their contributor's and Karpe's work, and I think that's just shitty. Not only that, but talking badly about other mods too, just because they don't like the people making those mods.
+> I was a former associate of the TOHE-R Discord Server. Throughout my time there, I witnessed Loonie (Main Dev) treating his staff, and contributors badly. They take credit for their contributor's and Karpe's work, and I think that's just shitty. Not only that, but talking badly about other mods too, just because they don't like the people making those mods.
 >
-> Note: So, I've decided to publicise all of the TOHE-R Dev and Canary Builds. and, I will continue to do so as long as I have access to said channels. Thank you.
+> Note: So, I've decided to publicise all of the TOHE-R Dev and Canary Builds. and, I will continue to do so as long as I have access to said channels (Currently looking for a workaround.), Thank you.
 > <br> [Canary Builds Here]  [Dev Builds Here]
 <br>
 </p>
